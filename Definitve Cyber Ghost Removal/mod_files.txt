@@ -1,3 +1,4 @@
 add raw/character/knuckles.pac
 add raw/character/knucklesP.pac
+add raw/EventCommon.pac
 add mod.ini
