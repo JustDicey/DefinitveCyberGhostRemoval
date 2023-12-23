@@ -1,3 +1,7 @@
+## Definitve Cyber Ghost Removal v2.0.23
+- Updated Knuckles' Transition Animations
+- Updated Tails' ASM Files
+- Thank You Pin kjoshldfoijsdfljhsdflkhjsdflkjsdaflkjsdfskljdfskdljflkjsdfsdklfjsdfkljsdfkljsdfkljjklhwsAOUYIEDUIEQWYTDFVIGYDWSBO
 ## Definitve Cyber Ghost Removal v2.0.1
 - Fixed the Weird Subsurface Scattering on Knuckles’ Nose
 - Removed Unique Cyber Particles From Cutscenes
