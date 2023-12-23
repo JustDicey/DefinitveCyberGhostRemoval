@@ -1,4 +1,9 @@
-add raw/character/knuckles.pac
-add raw/character/knucklesP.pac
+
+add raw/character/tailsP.pac
+add raw/character/tails.pac
+add raw/character/amyP.pac
+add raw/character/amy.pac
 add raw/EventCommon.pac
 add mod.ini
+add raw/character/knuckles.pac
+add raw/character/knucklesP.pac
