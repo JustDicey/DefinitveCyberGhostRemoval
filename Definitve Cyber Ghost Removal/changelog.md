@@ -1,3 +1,6 @@
+## Definitve Cyber Ghost Removal v2.0.24
+- Fixed Amy Using the Wrong Skin Shader
+- (This only happened because I uploaded the wrong file :p)
 ## Definitve Cyber Ghost Removal v2.0.23
 - Updated Knuckles' Transition Animations
 - Updated Tails' ASM Files
